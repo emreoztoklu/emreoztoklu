@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Emre OZTOKLU
 =============================
 
-Embedded Software Developer
+Embedded Systems Software & Hardware Developer
 ---------------------------
 
 * 🌍  I'm based in İstanbul/TÜRKİYE

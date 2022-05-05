@@ -32,11 +32,11 @@ Embedded Software Developer
 
 
 <h3 align="left">Socials</h3>
-<p align="left"> <a href="https://www.github.com/emreoztoklu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emreoztoklu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p> align="left"> <a href="https://www.github.com/emreoztoklu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emreoztoklu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <h3 align="left">Support Me</h3>
-  * My friend, You can help for my future projects 
-  * Thanks for your support, you are really supportive friend. :)
+<p>  * My friend, You can help for my future projects </p>
+<p>  * Thanks for your support, you are really supportive friend. :)</p>
   
 <a href="https://www.buymeacoffee.com/emreoztoklu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <a href="https://ko-fi.com/emreoztoklu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emreoztoklu" /></a>

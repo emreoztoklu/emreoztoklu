@@ -17,7 +17,7 @@ Embedded Software Developer
 
  
 
-<a href="https://www.st.com/en/development-tools/stm32cubeide.html#overview" target="_blank" rel="noreferrer"> <img src="http://www.pomad.fr/sites/default/files/pictures/tutorials/stm32/6.1/Image_002.png" alt="STM32CUBEIDE" width="58" height="58"/> </a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html#overview" target="_blank" rel="noreferrer"> <img src="http://www.pomad.fr/sites/default/files/pictures/tutorials/stm32/6.1/Image_002.png" alt="STM32CUBEIDE" width="120" height="58"/> </a>
 <a href="https://www.iar.com/" target="_blank" rel="noreferrer"> <img src="https://www.iar.com/siteassets/logo.svg" alt="IAR" width="58" height="58"/> </a>
 <a href="https://www.keil.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/170px-Keil_logo.svg.png" alt="KEIL" width="170" height="58"/> </a>
  

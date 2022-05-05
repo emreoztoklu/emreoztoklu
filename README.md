@@ -4,7 +4,7 @@
 Embedded Software Developer
 ---------------------------
 
-* 🌍  I'm based in ISTANBUL
+* 🌍  I'm based in İstanbul/TÜRKİYE
 * ✉️  You can contact me at [emreoztoklu@hotmail.com](mailto:emreoztoklu@hotmail.com)
 * 🤝  I'm open to collaborating on embedded projects
 

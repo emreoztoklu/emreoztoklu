@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Emre OZTOKLU
+### Hi there 👋 I am Emre OZTOKLU
 =============================
 
 Embedded Software Developer

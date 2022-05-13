@@ -37,7 +37,7 @@ Embedded Systems Software & Hardware Developer
 
 <h3 align="left">Support Me</h3>
 <p>My friend, You can help for my future projects</p>
-<p>Thanks for your support, you are really supportive friend. :)</p>
+<p>Thanks for your support, you are really supportive friend. :blush: </p>
   
 <a href="https://www.buymeacoffee.com/emreoztoklu"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <a href="https://ko-fi.com/emreoztoklu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emreoztoklu" /></a>

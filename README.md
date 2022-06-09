@@ -1,8 +1,25 @@
-### Hi there 👋 I am Emre OZTOKLU
-=============================
+### Hi there 👋 from me, Emre OZTOKLU
 
 Embedded Systems Software & Hardware Developer
----------------------------
+======================================
+Educations: 
+ -International University of Sarajevo - Electric & Electronic Engineer
+ -University of Marmara - Electronic & Communication Instructer
+ -Anatolian Technical High School- Electronic Student
+  for more: href=<a href="https://www.linkedin.com/in/emreoztoklu/overlay/1635489079408/single-media-viewer/" target="_blank" rel="noreferrer"></a>
+ 
+ Interested in: (Recenty) 
+  OpenCV İmage & video processing (C,C++,Python)
+  Digital signal processing (C,C++,Python)
+ 
+ Improving skills: 
+  USB protocol, 
+  FLASH operations,
+  Bootloader Design, 
+  Embedded "TCP/IP, UDP" protocol
+  LVGL GUI Design
+ 
+======================================
 
 * 🌍  I'm based in İstanbul/TÜRKİYE
 * ✉️  You can contact me at [emreoztoklu@hotmail.com](mailto:emreoztoklu@hotmail.com)

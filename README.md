@@ -13,7 +13,7 @@ Educations:
  Interested in: (Recenty) 
   <br>
   
-    OpenCV İmage & video processing (C,C++,Python)
+    OpenCV image & video processing (C,C++,Python)
     Digital signal processing (C,C++,Python)
   </br>
   

@@ -2,23 +2,32 @@
 
 Embedded Systems Software & Hardware Developer
 ======================================
-Educations: 
- -International University of Sarajevo - Electric & Electronic Engineer
- -University of Marmara - Electronic & Communication Instructer
- -Anatolian Technical High School- Electronic Student
+Educations:
+ <br>
+ 
+     International University of Sarajevo - Electric & Electronic Engineer
+     University of Marmara - Electronic & Communication Instructer
+     Anatolian Technical High School- Electronic Student
+ </br>
  
  Interested in: (Recenty) 
-  -OpenCV İmage & video processing (C,C++,Python)
-  -Digital signal processing (C,C++,Python)
- 
+  <br>
+  
+    OpenCV İmage & video processing (C,C++,Python)
+    Digital signal processing (C,C++,Python)
+  </br>
+  
  Improving skills: 
-  -USB protocol, 
-  -FLASH operations,
-  -Bootloader Design, 
-  -Embedded "TCP/IP, UDP" protocol
-  -LVGL GUI Design
+ <br>
  
-======================================
+    USB protocol, 
+    FLASH operations,
+    Bootloader Design, 
+    Embedded "TCP/IP, UDP" protocol
+    LVGL GUI Design
+ </br>
+ 
+=========================================================================================
 
 * 🌍  I'm based in İstanbul/TÜRKİYE
 * ✉️  You can contact me at [emreoztoklu@hotmail.com](mailto:emreoztoklu@hotmail.com)

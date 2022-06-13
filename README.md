@@ -1,4 +1,4 @@
-### Hi there 👋 from me, Emre OZTOKLU
+### Hi there 👋 from me, Emre OZTOKLU <a href="https://www.linkedin.com/in/emreoztoklu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 Embedded Systems Software & Hardware Developer
 ======================================

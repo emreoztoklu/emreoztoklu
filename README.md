@@ -29,6 +29,7 @@ Educations:
  
  Tools: 
  <br>
+ 
     Analog Discovery2,
     St-link,
     Kvaser

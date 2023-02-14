@@ -27,6 +27,14 @@ Educations:
     LVGL GUI Design
  </br>
  
+ Tools: 
+ <br>
+    Analog Discovery2,
+    St-link,
+    Kvaser
+
+ </br>
+ 
 =========================================================================================
 
 * 🌍  I'm based in İstanbul/TÜRKİYE

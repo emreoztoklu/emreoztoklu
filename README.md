@@ -30,9 +30,12 @@ Educations:
  Tools: 
  <br>
  
+    Osilascope,
     Analog Discovery2,
     St-link,
-    Kvaser
+    Kvaser,
+    Fluke Multimeter,
+    Saleae Logic Analyzer,
 
  </br>
  

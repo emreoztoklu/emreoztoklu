@@ -24,7 +24,8 @@ Educations:
     FLASH operations,
     Bootloader Design, 
     Embedded "TCP/IP, UDP" protocol
-    LVGL GUI Design
+    LVGL GUI Design,
+    FreeRTOS
  </br>
  
  Tools: 

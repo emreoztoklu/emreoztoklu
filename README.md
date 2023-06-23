@@ -56,7 +56,7 @@ Educations:
  
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="58" height="58"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="58" height="58"/> </a>
-<a href="https://www.st.com/en/development-tools/stm32cubeide.html#overview" target="_blank" rel="noreferrer"> <img src="http://www.pomad.fr/sites/default/files/pictures/tutorials/stm32/6.1/Image_002.png" alt="STM32CUBEIDE" width="120" height="58"/> </a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html#overview" target="_blank" rel="noreferrer"> <img src="https://github.com/ethanhuanginst/STM32CubeIDE-Workshop-2019/blob/master/docs/imgs/ST14179_STM32CubeIDE.png" alt="STM32CUBEIDE" width="120" height="58"/> </a>
 <a href="https://www.iar.com/" target="_blank" rel="noreferrer"> <img src="https://www.iar.com/siteassets/logo.svg" alt="IAR" width="58" height="58"/> </a>
 <a href="https://www.keil.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/170px-Keil_logo.svg.png" alt="KEIL" width="150" height="58"/> </a>
  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png" alt="MPLAB" width="58" height="58"/> </a>
